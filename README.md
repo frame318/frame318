@@ -1,5 +1,7 @@
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
 ### Hi there 👋
 
 **frame318/frame318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
