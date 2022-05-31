@@ -1,6 +1,6 @@
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![LineDEV](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)
+![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)
 
 ### Hi there 👋
 
