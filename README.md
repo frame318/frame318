@@ -43,3 +43,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+
+<a href="https://app.daily.dev/framef318"><img src="https://api.daily.dev/devcards/7177b59e72304df394dfaceb7dfbfbbb.png?r=jrr" width="400" alt="frame's Dev Card"/></a>
